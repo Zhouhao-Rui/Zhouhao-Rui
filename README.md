@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌴 I'm looking forward to being a software developer
+- 🌈 I'm currently learning data science 
+- 🏀 I really like playing basketball
+- 📬 How to reach me: ruiz@tcd.ie
+
+![madneal's github stats](https://github-readme-stats.vercel.app/api?username=Zhouhao-Rui&show_icons=true&theme=radical) 
