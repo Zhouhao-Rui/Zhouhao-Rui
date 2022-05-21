@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌴 I'm looking forward to being a software developer
-- 🌈 I'm currently learning data science 
+- 🌈 I'm currently learning Angular 
 - 🏀 I really like playing basketball
 - 📬 How to reach me: ruiz@tcd.ie
 
