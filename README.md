@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 🌴 I'm looking forward to being a software developer
 - 🌈 I'm currently learning Angular 
 - 🏀 I really like playing basketball
-- 📬 How to reach me: ruiz@tcd.ie
+- 📬 How to reach me: thybullerui@gmail.com
 
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=Zhouhao-Rui&show_icons=true&theme=radical) 
