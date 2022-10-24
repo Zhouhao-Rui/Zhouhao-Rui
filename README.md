@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌴 I'm looking forward to being a software developer
-- 🌈 I'm currently learning Angular 
-- 🏀 I really like playing basketball
+- 🌴 I'm learning to being a good front-end developer
+- 🌈 I'm currently learning Vue and Angular
+- 🏀 I really like playing basketball and 🎧 K-pop
 - 📬 How to reach me: thybullerui@gmail.com
 
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=Zhouhao-Rui&show_icons=true&theme=radical) 
